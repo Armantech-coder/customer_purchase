@@ -1,3 +1,7 @@
+scikit-learn==1.8.0
+joblib
+streamlit
+
 import streamlit as st
 import pandas as pd
 import joblib
